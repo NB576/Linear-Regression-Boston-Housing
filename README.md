@@ -4,7 +4,7 @@ In this notebook I will explore the basics of conducting a OLS linear regression
 
 **Contents**
 
-1. Dataset Description
+1. Dataset Overview
 2. Exploratory Data Analysis
 3. Building a Regression Model
 4. Non-linear relationships between independent and dependent variables
