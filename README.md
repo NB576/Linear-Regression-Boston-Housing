@@ -1,6 +1,6 @@
 # Linear-Regression-Boston-Housing
 
-In this notebook I will explore the basics of conducting a OLS linear regression study using the Boston Housing Dataset. I chose this dataset as it exhibits several violations of OLS regression assumptions which is ideal for learning purposes.
+In this notebook I will conduct a OLS linear regression study using the Boston Housing Dataset. I chose this dataset as it exhibits several violations of OLS regression assumptions which is ideal for learning purposes.
 
 **Contents**
 
